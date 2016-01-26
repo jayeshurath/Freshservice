@@ -1,9 +1,9 @@
 # Enter your freshdesk url and api key.
 FRESHDESK_URL = 'example.freshdesk.com'
-FRESHDESK_VIEW_URL = '/helpdesk/tickets.json?filter_name=all_tickets'
+FRESHDESK_VIEW_URL = 'https://jayeshtest.freshservice.com/helpdesk/tickets.json?filter_name=all_tickets'
 FRESHDESK_USERNAME = 'SECRET_API_KEY'
 # Password is blank
-FRESHDESK_PASSWORD = ''
+FRESHDESK_PASSWORD = '746qnOJi6c8TP05jHbp'
 FRESHDESK_IGNORE_USERS = ['No Agent', ]
 
 
